@@ -1,0 +1,4 @@
+﻿1,Dagger,Weapon,1,5
+2,Broad Sword,Weapon,5,15
+3,bow,Aimed Weapon,8,20
+4,Rock,Blunt Weapon,2,7
