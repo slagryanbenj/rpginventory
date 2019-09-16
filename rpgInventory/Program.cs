@@ -153,14 +153,12 @@ namespace rpgInventory
                     Console.WriteLine("Sell Weapon --- Sell a Weapon to the Store");
                     Console.WriteLine("Sell Potion --- Sell a Potion to the Store");
                     Console.WriteLine("Exit --- Close Application");
+                    Console.WriteLine("Clear --- Clear the screen");
                     Console.WriteLine("");
 
                 }
 
-                if(lCmd == ("fuck"))
-                {
-                    Console.WriteLine("It will be okay, just keep going");
-                }
+               
 
                 if(lCmd == ("clear"))
                 {
